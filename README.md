@@ -6,6 +6,7 @@ In fact, the instances of the latter are modified instances from the benchmark r
 The benchmark created composed of 17 instances, each instance has 3 files:
 
 * First file <name.col>:
+
 ``` m = 3 (2 similar memory banks, and memory external)  & n=11 (data structures) ```
 3 11
 
