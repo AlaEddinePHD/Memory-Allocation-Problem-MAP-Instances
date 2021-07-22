@@ -5,7 +5,9 @@ In fact, the instances of the latter are modified instances from the benchmark r
 
 The benchmark created composed of 17 instances, each instance has 3 files:
 
-* [First file]
+* First file <name.col>:
+* Second file <nameDORIG.col>:
+* Third file <nameDR.col>:
 
 
 
