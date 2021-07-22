@@ -10,7 +10,7 @@ The benchmark created composed of 17 instances, each instance has 3 files:
 ``` m = 3 (2 similar memory banks, and memory external)  & n=11 (data structures) ```
 3 11
 
-``` Theta```
+``` Theta``` 
 16
 
 ``` t(i,j) ```
