@@ -14,16 +14,23 @@ The benchmark created composed of 17 instances, each instance has 3 files:
 16
 
 ``` t(i,j) ```
+
 61 36 98 76 69 63 42 14 100 20 92 
+
 61 36 98 76 69 63 42 14 100 20 92 
+
 61 36 98 76 69 63 42 14 100 20 92 
 
 ``` s(i,j) ```
+
 40 70 95 46 66 43 38 43 90 27 22 
+
 40 70 95 46 66 43 38 43 90 27 22 
+
 40 70 95 46 66 43 38 43 90 27 22 
 
 ``` c(i) : The capacity of the memory banks ```
+
 165 215 ∞
 
 * Second file <nameDORIG.col>:
